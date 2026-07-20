@@ -1,73 +1,47 @@
-Workforce Utilization & Staffing Dashboard
-Overview
+# Workforce Utilization & Staffing Dashboard
 
-This Power BI dashboard analyzes employee workload, staffing utilization, and project allocation using workforce timecard data. It provides insights into employee productivity, project contribution, billable work, and staffing trends to support resource planning.
+## Overview
 
-Business Problem
+An interactive Power BI dashboard built to analyze workforce utilization, staffing trends, project allocation, and employee productivity using timecard data.
 
-Organizations need visibility into workforce utilization to ensure employees are optimally allocated across projects.
+## Business Problem
 
-This dashboard helps answer questions like:
+Organizations need visibility into employee workload and staffing allocation to optimize resource planning and improve utilization.
 
-How many total hours were worked?
-Which roles contribute the most?
-How does workload change month over month?
-What percentage of work is billable?
-How many employees are active each month?
-Which project types consume the most effort?
-Dataset
+This dashboard helps answer:
 
-The dataset contains employee timecard records including:
+- How many hours were worked each month?
+- Which roles contributed the most?
+- What percentage of work was billable?
+- How many employees were active over time?
+- Which project types consumed the highest effort?
 
-Employee ID
-Employee Name
-Project ID
-Billable Status
-Project Type
-Employee Role
-Start Date
-End Date
-Total Hours
-Cost Centre
-KPIs
-Total Hours
-Total Employees
-Average Hours per Employee
-Billable Percentage
-Dashboard Features
-Monthly Workload Trend
-Active Employee Trend
-Workload Distribution by Role
-Billable vs Non-Billable Hours
-Project Type Contribution
-Team Slicer
-Power BI Skills Used
-Power Query
-Data Cleaning
-DAX Measures
-Time Intelligence
-KPI Cards
-Slicers
-Line Charts
-Bar Charts
-Pie Charts
-Donut Charts
-Dashboard Design
-DAX Measures Used
-Total Hours
+## Dashboard Features
 
-Billable Hours
+- KPI Cards
+- Monthly Workload Trend
+- Billable vs Non-Billable Analysis
+- Active Employee Trend
+- Workload Distribution by Role
+- Project Type Contribution
+- Team Filters
 
-Non-Billable Hours
+## Tools Used
 
-Average Hours per Employee
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Excel
 
-Total Employees
+## Key DAX Measures
 
-Billable %
-Business Insights
-Tracked monthly workload trends
-Compared billable vs non-billable work
-Identified role-wise workload distribution
-Analyzed active employee growth
-Evaluated project type contribution
+- Total Hours
+- Billable Hours
+- Non-Billable Hours
+- Average Hours per Employee
+- Total Employees
+- Billable %
+
+## Dashboard Preview
+
