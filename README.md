@@ -44,4 +44,5 @@ This dashboard helps answer:
 - Billable %
 
 ## Dashboard Preview
+<img width="1440" height="900" alt="Screenshot 2026-07-20 at 2 17 16 PM" src="https://github.com/user-attachments/assets/2d946cb4-9e4e-431a-887c-45ea9a9c92e4" />
 
